@@ -1,0 +1,10 @@
+F:\cours3 project\Tic_Tad_Toe_Game\bin\Debug\Tic_Tad_Toe_Game.exe.config
+F:\cours3 project\Tic_Tad_Toe_Game\bin\Debug\Tic_Tad_Toe_Game.exe
+F:\cours3 project\Tic_Tad_Toe_Game\bin\Debug\Tic_Tad_Toe_Game.pdb
+F:\cours3 project\Tic_Tad_Toe_Game\obj\Debug\Tic_Tad_Toe_Game.csproj.AssemblyReference.cache
+F:\cours3 project\Tic_Tad_Toe_Game\obj\Debug\Tic_Tad_Toe_Game.Form1.resources
+F:\cours3 project\Tic_Tad_Toe_Game\obj\Debug\Tic_Tad_Toe_Game.Properties.Resources.resources
+F:\cours3 project\Tic_Tad_Toe_Game\obj\Debug\Tic_Tad_Toe_Game.csproj.GenerateResource.cache
+F:\cours3 project\Tic_Tad_Toe_Game\obj\Debug\Tic_Tad_Toe_Game.csproj.CoreCompileInputs.cache
+F:\cours3 project\Tic_Tad_Toe_Game\obj\Debug\Tic_Tad_Toe_Game.exe
+F:\cours3 project\Tic_Tad_Toe_Game\obj\Debug\Tic_Tad_Toe_Game.pdb
